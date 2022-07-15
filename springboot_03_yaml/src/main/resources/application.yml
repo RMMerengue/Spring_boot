@@ -1,0 +1,41 @@
+server:
+  port: 80
+
+country: china
+
+user:
+  name: itcast
+  age: 16
+
+like:
+  - game
+  - music
+  - sleep
+
+likes: [game,music,sleep]
+
+users:
+  - name: zhangsan
+    age: 19
+  - name: lisi
+    age: 18
+
+users2:
+  -
+    name: zhangsan
+    age: 19
+  -
+    name: lisi
+    age: 18
+
+users3: [{name:zhangsan,age:19},{name:lisi,age:18}]
+
+baseDir: c:\windows
+
+tmpDir: ${baseDir}\temp
+
+datasource:
+  driver: com.mysql.jdbc.Driver
+  url: jdbc:mysql://localhost/springboot_db
+  username: root
+  password: wty7220898
