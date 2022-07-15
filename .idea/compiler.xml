@@ -13,6 +13,7 @@
         <module name="springboot_03_yaml" />
         <module name="springboot_05_mybatis" />
         <module name="springboot_01_01_quickstart" />
+        <module name="springboot_07_druid" />
         <module name="springboot_02_base_configuration" />
         <module name="springboot_06_mybatis_plus" />
       </profile>
@@ -27,6 +28,7 @@
       <module name="springboot_04_junit" target="1.8" />
       <module name="springboot_05_mybatis" target="1.8" />
       <module name="springboot_06_mybatis_plus" target="1.8" />
+      <module name="springboot_07_druid" target="1.8" />
       <module name="springboot_0x_xxxxxxxxxxxxx" target="1.8" />
     </bytecodeTargetLevel>
   </component>
