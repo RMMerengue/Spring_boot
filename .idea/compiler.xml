@@ -11,6 +11,7 @@
         <module name="springboot_01_04_quickstart" />
         <module name="springboot_04_junit" />
         <module name="springboot_03_yaml" />
+        <module name="springboot_05_mybatis" />
         <module name="springboot_01_01_quickstart" />
         <module name="springboot_02_base_configuration" />
       </profile>
@@ -23,6 +24,7 @@
       <module name="springboot_02_base_configuration" target="1.8" />
       <module name="springboot_03_yaml" target="1.8" />
       <module name="springboot_04_junit" target="1.8" />
+      <module name="springboot_05_mybatis" target="1.8" />
       <module name="springboot_0x_xxxxxxxxxxxxx" target="1.8" />
     </bytecodeTargetLevel>
   </component>
