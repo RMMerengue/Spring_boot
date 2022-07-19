@@ -1,0 +1,13 @@
+#应用环境
+#spring:
+#  profiles:
+#    active: dev
+#    include: pro, test
+
+spring:
+  profiles:
+    active: @profile.active@
+    group:
+      "dev": decDB, devRedis, devMVC
+      "pro": proDB, proRedis, proMVC
+      "test": testDB, testRedis, testMVC
