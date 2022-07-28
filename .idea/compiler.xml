@@ -20,6 +20,7 @@
         <module name="springboot_04_junit" />
         <module name="springboot_01_01_quickstart" />
         <module name="springboot_02_base_configuration" />
+        <module name="springboot_11_log" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -37,6 +38,7 @@
       <module name="springboot_09_config" target="1.8" />
       <module name="springboot_0x_xxxxxxxxxxxxx" target="1.8" />
       <module name="springboot_10_profiles" target="1.8" />
+      <module name="springboot_11_log" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

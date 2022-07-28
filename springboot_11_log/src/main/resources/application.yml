@@ -1,0 +1,13 @@
+logging:
+  group:
+    ebank: com.itheima.controller, com.itheima.service, com.itheima.dao
+    isservice: com.alibaba
+  level:
+    root: info
+    ebank: warn
+  pattern:
+    console: "%d %p %5n"
+  file:
+    name: server.log
+
+
