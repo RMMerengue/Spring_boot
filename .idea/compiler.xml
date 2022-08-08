@@ -22,6 +22,7 @@
         <module name="springboot_04_junit" />
         <module name="springboot_01_01_quickstart" />
         <module name="springboot_13_configuration" />
+        <module name="springboot_16_redis" />
         <module name="springboot_02_base_configuration" />
         <module name="springboot_11_log" />
         <module name="springboot_12_hot_deploy" />
@@ -48,6 +49,7 @@
       <module name="springboot_13_configuration" target="1.8" />
       <module name="springboot_14_test" target="1.8" />
       <module name="springboot_15_sql" target="1.8" />
+      <module name="springboot_16_redis" target="1.8" />
       <module name="test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
