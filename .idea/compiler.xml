@@ -10,6 +10,7 @@
         <module name="springboot_01_03_quickstart" />
         <module name="springboot_15_sql" />
         <module name="springboot_09_config" />
+        <module name="springboot_17_mongodb" />
         <module name="springboot_03_yaml" />
         <module name="springboot_05_mybatis" />
         <module name="springboot_07_druid" />
@@ -50,6 +51,7 @@
       <module name="springboot_14_test" target="1.8" />
       <module name="springboot_15_sql" target="1.8" />
       <module name="springboot_16_redis" target="1.8" />
+      <module name="springboot_17_mongodb" target="1.8" />
       <module name="test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
