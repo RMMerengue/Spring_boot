@@ -13,6 +13,7 @@
         <module name="springboot_17_mongodb" />
         <module name="springboot_03_yaml" />
         <module name="springboot_05_mybatis" />
+        <module name="springboot_20_jetcache" />
         <module name="springboot_07_druid" />
         <module name="springboot_14_test" />
         <module name="springboot_08_ssmp" />
@@ -32,6 +33,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="jetcache" target="1.8" />
       <module name="springboot_01_01_quickstart" target="1.8" />
       <module name="springboot_01_02_quickstart" target="1.8" />
       <module name="springboot_01_03_quickstart" target="1.8" />
@@ -56,6 +58,7 @@
       <module name="springboot_17_mongodb" target="1.8" />
       <module name="springboot_18_es" target="1.8" />
       <module name="springboot_19_cache" target="1.8" />
+      <module name="springboot_20_jetcache" target="1.8" />
       <module name="test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
