@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot_22_task" />
+        <module name="springboot_28_bean_load" />
         <module name="springboot_05_mybatis" />
         <module name="springboot_20_jetcache" />
         <module name="springboot_14_test" />
@@ -73,6 +74,7 @@
       <module name="springboot_25_admin_server" target="1.8" />
       <module name="springboot_26_admin_client" target="1.8" />
       <module name="springboot_27_bean_init" target="8" />
+      <module name="springboot_28_bean_load" target="8" />
       <module name="test" target="1.8" />
     </bytecodeTargetLevel>
   </component>

@@ -35,6 +35,7 @@
         <option value="$PROJECT_DIR$/springboot_25_admin_server/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_26_admin_client/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_27_bean_init/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_28_bean_load/pom.xml" />
       </list>
     </option>
   </component>
