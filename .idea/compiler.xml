@@ -11,6 +11,7 @@
         <module name="springboot_28_bean_load" />
         <module name="springboot_05_mybatis" />
         <module name="springboot_20_jetcache" />
+        <module name="springboot_30_startip" />
         <module name="springboot_14_test" />
         <module name="springboot_08_ssmp" />
         <module name="springboot_29_bean_properties" />
@@ -79,6 +80,7 @@
       <module name="springboot_27_bean_init" target="8" />
       <module name="springboot_28_bean_load" target="8" />
       <module name="springboot_29_bean_properties" target="8" />
+      <module name="springboot_30_startip" target="1.8" />
       <module name="test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
